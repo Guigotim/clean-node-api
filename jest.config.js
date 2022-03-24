@@ -12,6 +12,6 @@ module.exports = {
     '/node_modules/',
     '/interfaces',
     '/helpers',
-    '/errors',
-  ],
+    '/errors'
+  ]
 }
